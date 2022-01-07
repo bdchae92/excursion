@@ -1,2 +1,36 @@
-jirim
-1234
+html {
+    height:100%;
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:black;
+    text-align: center;
+    color:white;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h2 {
+    
+    font-weight: 300;
+    font-size: 42px;
+}
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight:normal;
+    color:gray;
+}
+.download {
+    color:aquamarine;
+    font-size:16px;
+}
+footer h3 {
+    text-align:right;
+    font-size: 21px;
+    color:gray;
+}
